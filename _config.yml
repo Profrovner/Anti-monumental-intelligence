@@ -1,21 +1,7 @@
-
-
 # --SITE SETTINGS--
-title: "Anti-Monumental Intelligence: Exploring a Series of Counter-Monuments to Chicago's Contentious Public History Narratives using Generative-ai"
+title: "Anti-Monumental Intelligence: Exploring a Series of Counter-Monuments to Chicago's Contentious Public History Narratives using Generative-AI"
 email: mrovner@lakeforest.edu
-description: "Anti-Monumental" works with AI to critically evaluate Chicago’s public history
-monuments, and to propose corrective augmentations or new models that better
-represent the complicated history of race, conquest, and representation in Chicago. The
-project responds to the city’s commission – the “racial healing and reckoning project”
-– tasked with evaluating over 500 Chicago monuments. Though seemingly singular,
-each monument is entangled in complicated and far-reaching histories of exploitation,
-extraction, and displacement – histories without physical commemoration in the
-contemporary city. In conversation with an LLM, the project begins to unravel the
-histories underpinning monuments central to Chicago’s public narrative, to analyze the
-contemporary public discourse surrounding their preservation or plans for removal,
-and to connect them to alternative histories of being and belonging. The project
-experiments with generative AI’s capacity for reading images, through DALL-E, for
-example, to question identified monuments, and to re-envision them as “antimonuments” to Chicago’s diverse, complicated, difficult, and hidden histories.
+description: "'Anti-Monumental' works with AI to critically evaluate Chicago’s public history monuments, and to propose corrective augmentations or new models that better represent the complicated history of race, conquest, and representation in Chicago. The project responds to the city’s commission–the “racial healing and reckoning project”–tasked with evaluating over 500 Chicago monuments. Though seemingly singular, each monument is entangled in complicated and far-reaching histories of exploitation, extraction, and displacement – histories without physical commemoration in the contemporary city. In conversation with an LLM, the project begins to unravel the histories underpinning monuments central to Chicago’s public narrative, to analyze the contemporary public discourse surrounding their preservation or plans for removal, and to connect them to alternative histories of being and belonging. The project experiments with generative AI’s capacity for reading images, through DALL-E, for example, to question identified monuments, and to re-envision them as “antimonuments” to Chicago’s diverse, complicated, difficult, and hidden histories."
 baseurl: "/Anti-monumental-intelligence" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/Profrovner/Anti-monumental-intelligence
