@@ -16,7 +16,7 @@ contemporary public discourse surrounding their preservation or plans for remova
 and to connect them to alternative histories of being and belonging. The project
 experiments with generative AI’s capacity for reading images, through DALL-E, for
 example, to question identified monuments, and to re-envision them as “antimonuments” to Chicago’s diverse, complicated, difficult, and hidden histories.
-baseurl: "/anti-monumental-intelligence" # the subpath of your site, e.g. /blog/
+baseurl: "/Anti-monumental-intelligence" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/Profrovner/Anti-monumental-intelligence
 
