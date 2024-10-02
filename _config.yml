@@ -1,15 +1,27 @@
 
 
 # --SITE SETTINGS--
-title: "Flâneur: a Jekyll theme for maps and text"
-email: dchildress@library.ucla.edu
-description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/kirschbombe/flaneur
+title: "Anti-Monumental Intelligence: Exploring a Series of Counter-Monuments to Chicago's Contentious Public History Narratives using Generative-ai"
+email: mrovner@lakeforest.edu
+description: "Anti-Monumental" works with AI to critically evaluate Chicago’s public history
+monuments, and to propose corrective augmentations or new models that better
+represent the complicated history of race, conquest, and representation in Chicago. The
+project responds to the city’s commission – the “racial healing and reckoning project”
+– tasked with evaluating over 500 Chicago monuments. Though seemingly singular,
+each monument is entangled in complicated and far-reaching histories of exploitation,
+extraction, and displacement – histories without physical commemoration in the
+contemporary city. In conversation with an LLM, the project begins to unravel the
+histories underpinning monuments central to Chicago’s public narrative, to analyze the
+contemporary public discourse surrounding their preservation or plans for removal,
+and to connect them to alternative histories of being and belonging. The project
+experiments with generative AI’s capacity for reading images, through DALL-E, for
+example, to question identified monuments, and to re-envision them as “antimonuments” to Chicago’s diverse, complicated, difficult, and hidden histories.
+baseurl: "/anti-monumental" # the subpath of your site, e.g. /blog/
+url: "Profrovner.github.io/Anti-monumental/" # the base hostname & protocol for your site
+github_repo: https://github.com/Profrovner/Anti-monumental-intelligence
 
 # --COPYRIGHT-- (Date generated from last build)
-copyright_name: Dawn Childress
+copyright_name: 
 license: CC BY-NC-SA 4.0
 
 # build settings
@@ -21,10 +33,6 @@ accent_color: rgba(18, 127, 157, 1)  # accent color can be any css accepted valu
 accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can specify the accent font here and it will add it to the main.css
 base_font: >
   "Lato", sans-serif
-
-# --SOCIAL--
-twitter_username: kirschbombe
-github_username:  kirschbombe
 
 # --MAP SETTINGS--
 mapsettings:
@@ -53,7 +61,7 @@ collections:
 permalink: /:categories/:title/
 
 # --MENU--
-menu-type: dropdown  # options: dropdown, circle
+menu-type: circle  # options: dropdown, circle
 
 # settings for circle menu
 menu-height: '200px'
