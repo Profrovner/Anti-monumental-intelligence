@@ -17,7 +17,7 @@ and to connect them to alternative histories of being and belonging. The project
 experiments with generative AI’s capacity for reading images, through DALL-E, for
 example, to question identified monuments, and to re-envision them as “antimonuments” to Chicago’s diverse, complicated, difficult, and hidden histories.
 baseurl: "/anti-monumental" # the subpath of your site, e.g. /blog/
-url: "Profrovner.github.io/Anti-monumental/" # the base hostname & protocol for your site
+url: "https://Profrovner.github.io/Anti-monumental-intelligence/" # the base hostname & protocol for your site
 github_repo: https://github.com/Profrovner/Anti-monumental-intelligence
 
 # --COPYRIGHT-- (Date generated from last build)
